@@ -1,0 +1,72 @@
+1: banbao
+2: my name is banbao
+3: I have 2.2 yuan
+4: my name is banbao,I have 2.210000 yuan
+5: my name is banbao
+6: I have 2.21 yuan
+7: my name is banbao
+8: 6 a: aaaaaa
+9: 
+a
+n
+a
+o
+10: my name is banbao
+11: my name is banbao, I have 2.21 yuan
+12: my name is banbao, I have 2.21 yuan
+13: bo
+14: banba
+	oabnab
+15: 字符串操作
+0
+3
+0
+3
+6
+2
+BanBao
+['b', 'nb', 'o']
+True
+False
+banbao
+BANBAO
+| banbao|
+| banbao |
+| banbao|
+('ba', 'nb', 'ao')
+('banbao', '', '')
+False
+True
+False
+True
+False
+False
+True
+my name is banbao
+16: 第一行第二行
+17: \t
+18: 列表list
+['apple', '香蕉']
+apple
+香蕉
+apple
+香蕉
+火龙果
+葡萄
+['橘子', 'orange']
+['apple', '香蕉', '火龙果', '葡萄', ['橘子', 'orange']]
+['apple', '香蕉', 'watermelon']
+['apple', '香蕉', ['火龙果', '葡萄', ['橘子', 'orange']]]
+['apple', '香蕉', '火龙果', '葡萄', ['橘子', 'orange']]
+1
+0
+['grapes', 'apple', '香蕉']
+香蕉
+['apple']
+['a', 'a']
+['香蕉', 'apple']
+['a', 'b']
+['a', 'b']
+['b', 'a']
+['香蕉']
+True
