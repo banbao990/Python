@@ -1,0 +1,33 @@
+1:元组, num:(1, 2, 3, 4)
+(1, 2, 3)
+(1, 2, 3)
+(1, 2, 3)
+(1,)
+2
+1 2 3 4
+1 3 4
+2: dictionary
+{'name': 'banbao', 'age': 20}
+2
+banbao
+None
+ping-pong
+{'name': 'banbao', 'age': 20, 'hobby': 'chess'}
+True
+{'name': 'banbao', 'age': 20, 'hobby': 'chess'}
+{}
+{'name': 'banbao', 'age': 18}
+{'name': 'banbao'}
+{'name': 'SMJB', 'age': 18}
+{'name': 'SMJB'}
+{'name': 'SMJB', 'age': 18}
+{'name': 'banbao', 'age': 20, 'hobby': 'chess'}
+{'name': 'banbao', 'age': 20, 'food': 'carrot', 'hobby': 'chess'}
+SMJB
+wand
+name : SMJB
+age : 18
+food : carrot
+name:SMJB
+age:18
+food:carrot
