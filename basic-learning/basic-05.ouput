@@ -1,0 +1,29 @@
+*****main01*****
+Eating apple.
+2
+Eating banana.
+banana is delicious.
+<class 'type'>
+A eat
+a eat
+(<class '__main__.ab'>, <class '__main__.a'>, <class '__main__.A'>, <class '__main__.b'>, <class '__main__.B'>, <class 'object'>)
+a8-sequence:
+    <class '__main__.a8'>
+    <class '__main__.a4'>
+    <class '__main__.a5'>
+    <class '__main__.a2'>
+    <class '__main__.a6'>
+    <class '__main__.a7'>
+    <class '__main__.a3'>
+    <class '__main__.a1'>
+    <class 'object'>
+*****main02*****
+new
+init
+new
+init
+p1:2870604231008,p2:2870604231680
+del
+del
+*****main03*****
+p1:2870604232016,p2:2870604232016
