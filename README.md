@@ -2,7 +2,7 @@
 
 ## 1. [小应用](./application/README.md)
 
-### 1.1 [简易的银行系统](./application/Bank/Bank.py)
++ [简易的银行系统](./application/Bank/Bank.py)
 
 
 

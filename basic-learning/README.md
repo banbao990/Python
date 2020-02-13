@@ -22,3 +22,10 @@
 
 + 类和对象(class)
 
+# 6. [basic-06.py](./basic-06.py)
+
++ map
++ filter
++ reduce
++ 列表生成式
++ 类三目运算符
