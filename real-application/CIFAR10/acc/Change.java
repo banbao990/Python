@@ -2,7 +2,7 @@ import java.io.*;
 
 public class Change {
     public static void main(String[] args) {
-        // 检查参数个数
+        // check args
         int version = 0;
         if(args.length == 1){
             version = Integer.parseInt(args[0]);
