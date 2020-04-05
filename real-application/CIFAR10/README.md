@@ -3,8 +3,8 @@
 ## 文件夹说明
 
 + `acc` : 各模型的准确率
-  + `G.java` : 将输出转化为 `csv` 格式
-    + `java G version`
+  + `Change.java` : 将输出转化为 `csv` 格式
+    + `java Change version`
   + `plot.py` : 画图
     + 需要手动绘制版本
 + `data` : 数据集
