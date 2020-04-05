@@ -15,3 +15,5 @@
 
 
 ## 3. [实际应用](./real-application/README.md)
+
++ [CIFAR10-图片分类任务-VGG16](./real-application/CIFAR10/README.md)
